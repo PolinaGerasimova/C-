@@ -1,0 +1,16 @@
+C:\Users\P.Gerasimova\Downloads\autocomplete.csproj (1)\bin\Debug\dic\adjectives.txt
+C:\Users\P.Gerasimova\Downloads\autocomplete.csproj (1)\bin\Debug\dic\nouns.txt
+C:\Users\P.Gerasimova\Downloads\autocomplete.csproj (1)\bin\Debug\dic\verbs.txt
+C:\Users\P.Gerasimova\Downloads\autocomplete.csproj (1)\bin\Debug\Autocomplete.exe.config
+C:\Users\P.Gerasimova\Downloads\autocomplete.csproj (1)\bin\Debug\Autocomplete.exe
+C:\Users\P.Gerasimova\Downloads\autocomplete.csproj (1)\bin\Debug\Autocomplete.pdb
+C:\Users\P.Gerasimova\Downloads\autocomplete.csproj (1)\bin\Debug\nunit.framework.dll
+C:\Users\P.Gerasimova\Downloads\autocomplete.csproj (1)\obj\Debug\autocomplete.csproj.AssemblyReference.cache
+C:\Users\P.Gerasimova\Downloads\autocomplete.csproj (1)\obj\Debug\autocomplete.csproj.SuggestedBindingRedirects.cache
+C:\Users\P.Gerasimova\Downloads\autocomplete.csproj (1)\obj\Debug\Autocomplete.AutocompleteForm.resources
+C:\Users\P.Gerasimova\Downloads\autocomplete.csproj (1)\obj\Debug\Autocomplete.Properties.Resources.resources
+C:\Users\P.Gerasimova\Downloads\autocomplete.csproj (1)\obj\Debug\autocomplete.csproj.GenerateResource.cache
+C:\Users\P.Gerasimova\Downloads\autocomplete.csproj (1)\obj\Debug\autocomplete.csproj.CoreCompileInputs.cache
+C:\Users\P.Gerasimova\Downloads\autocomplete.csproj (1)\obj\Debug\autocomplete.csproj.CopyComplete
+C:\Users\P.Gerasimova\Downloads\autocomplete.csproj (1)\obj\Debug\Autocomplete.exe
+C:\Users\P.Gerasimova\Downloads\autocomplete.csproj (1)\obj\Debug\Autocomplete.pdb
